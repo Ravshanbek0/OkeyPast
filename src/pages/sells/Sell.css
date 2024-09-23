@@ -1,0 +1,75 @@
+.sell {
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+}
+
+.sell_title {
+    width: 834px;
+    font-weight: 800;
+    font-size: 44px;
+    margin-top: 121px;
+}
+
+.sell_main {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.sell_boxes {
+    width: 675px;
+    height: 360px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 56px;
+    margin-top: 30px;
+}
+
+.sell_main_boxes {
+    height: 300px;
+    width: 300px;
+    position: relative;
+}
+
+.sMain_title1 {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.sMain_title2 {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 36px;
+
+    margin-top: 9px;
+}
+
+.sell_blackP {
+    font-weight: 700;
+}
+
+.sell_greenP {
+    font-weight: 700;
+    color:
+        #01CD7D;
+}
+
+.sMain_title3 {
+    margin-top: 18px;
+    line-height: 36px;
+}
+
+.sell_main_text {
+    font-size: 18px;                             
+    font-weight: 700;
+    letter-spacing: 0em;
+    color: #01CD7D;
+    position: absolute;
+    bottom: 0;
+    cursor: pointer;
+}
